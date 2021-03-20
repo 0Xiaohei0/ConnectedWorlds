@@ -1,4 +1,5 @@
 # ConnectedWorlds
+![screenshot of the game](/screenshot.jpg?raw=true)
 This repository contains all the source code and files for "Fortress in the Sky", a 2d platformer made by Sicheng Yi and Yangming Hu, for DevSquad Academy Jam.
 
 The link for the game page: https://daydreamstudio.itch.io/fortress-in-the-sky
